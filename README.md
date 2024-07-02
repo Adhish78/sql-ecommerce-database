@@ -1,4 +1,4 @@
-# SQL E-Commerce Database Project
+# E-commerce Database Management System
 
 ## Project Overview
 
